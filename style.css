@@ -1,0 +1,28 @@
+h1{text-align: center;}
+h2{text-align: center;}
+        table,th,td{border:1px solid black;
+        border-collapse:collapse;
+        text-align: center;
+        }
+.container{margin-left: 50px;
+margin-right: 50px;}
+.head{
+    color:whitesmoke;
+    background-color:rgb(107, 6, 6);
+}
+h3{
+    color:rgb(107, 6, 6);
+}
+table{
+    width:50%;
+}
+th{
+    background-color:rgb(230, 143, 143);
+    
+}
+.bg{
+    background-color:rgb(243, 204, 204) ;
+}
+hr{
+    color:rgb(107, 6, 6) ;
+}
